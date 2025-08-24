@@ -1,8 +1,8 @@
 # Samsung EnnovateX 2025 AI Challenge Submission
 
 - **Problem Statement** - *Applications are affected differently under varying traffic conditions, channel states, and coverage scenarios. If the traffic of each UE can be categorized into broader categories, such as Video Streaming, Audio Calls, Video Calls, Gaming, Video Uploads, browsing, texting etc. that can enable the Network to serve a differentiated and curated QoS for each type of traffic. Develop an AI model to analyze a traffic pattern and predict the application category with high accuracy.*
-- **Team name** - *Cryptonite*
-- **Team members (Names)** - *Meeti Mehta*, *Kaaviya Kalyanakumar*, *Adriteyo Das*, *Varun Naik* 
+- **Team name** - 
+- **Team members (Names)** -  
 - **Demo Video Link** - *(Upload the Demo video on Youtube as a public or unlisted video and share the link. Google Drive uploads or any other uploads are not allowed.)*
 
 
